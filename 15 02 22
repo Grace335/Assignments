@@ -1,0 +1,9 @@
+#arithmetic operators
+x=int(input("enter x value:"))
+y=int(input("enter y value:")) 
+c=x+y 
+print("sum:",c) 
+d=x-y
+print("difference:",d) 
+e=x*y 
+print("product:",e)
