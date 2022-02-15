@@ -1,0 +1,8 @@
+#division program
+x=int(input("enter x:")) 
+y=int(input("enter y:")) 
+c=x//y#integer division
+print(c)
+d=x/y#float division
+print(d) 
+
